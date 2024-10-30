@@ -19,7 +19,7 @@ You can clone repository.
 - Clone repository
 
 ```bash
-git clone https://github.com/**
+git clone https://github.com/lumanix12/blum-oto-BOT-updated/
 ```
 - Run the "install.bat" file.
 
