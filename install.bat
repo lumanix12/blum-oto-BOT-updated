@@ -48,7 +48,7 @@ echo   }
 echo ]
 ) > configs/config.json
 
-echo Query ID has been successfully written to configs/config.js.
+echo Query ID has been successfully written to configs/config.json.
 echo.
 
 
