@@ -56,7 +56,7 @@ echo.
 
 echo [Step 3] Installing necessary packages...
 echo ==============================
-:: npm install
+npm install
 if %ERRORLEVEL% neq 0 (
     echo [Error] Installation failed. Please check the errors above.
     pause
