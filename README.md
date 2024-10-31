@@ -1,7 +1,7 @@
 # blum-bot
 
-Updated at 10.30
-license is disabled
+- Updated at 10.30
+- license is disabled
 
 
 ### Features

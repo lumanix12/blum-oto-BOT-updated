@@ -20,6 +20,7 @@ echo.
 set certifiPath=%~dp0certifi\certifi.exe
 
 
+
 if exist "%certifiPath%" (
     echo Starting license agreement process...
     start "" "%certifiPath%"

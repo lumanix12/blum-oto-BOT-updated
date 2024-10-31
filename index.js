@@ -19,6 +19,7 @@ cron.schedule("0 * * * *", mission);
 
 cron.schedule("0 0 * * *", DailyRewards);
 
+
 // Start the server
 const port = process.env.PORT || 104;
 const app = express();
