@@ -3,6 +3,7 @@
 Updated at 10.30
 license is disabled
 
+
 ### Features
 
 - Auto claim daily Rewards
@@ -10,6 +11,7 @@ license is disabled
 - Auto play game with MAX POINTS and MAX DOGS COIN
 - Auto claim mission
 - support multi account
+
 
 
 ### How to use
