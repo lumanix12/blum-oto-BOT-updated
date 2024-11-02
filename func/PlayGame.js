@@ -34,6 +34,7 @@ const claimReward = async (token, API_CLAIM_REWARD, gameId) => {
   return claim.data;
 };
 
+
 async function checkAvailableGame(token) {
   const BALANCE_API = "https://game-domain.blum.codes/api/v1/user/balance";
   const playPasses = await axios.get(BALANCE_API, {
